@@ -1,7 +1,7 @@
 # TensorFlow-Keras Bootcamp 
 ## By OpenCV University 
 
-*Course Page*
+[*Course Page*](https://opencv.org/university/free-tensorflow-keras-course/?utm_source=opcvu&utm_medium=menu&utm_campaign=tbc)
 
 ## Course Content
 
@@ -17,4 +17,5 @@
 * Object Detection
 
 ----
-![certificate](https://github.com/user-attachments/assets/f9f731f1-3f33-4a15-ba47-bf30c62da15b)
+
+![course page](https://github.com/user-attachments/assets/7d1c7ac6-4f14-409f-ba99-186dad0659b6)
