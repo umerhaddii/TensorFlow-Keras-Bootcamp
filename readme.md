@@ -12,6 +12,9 @@
 * CNN Fundamentals
 * CIFAR-10 Classification using CNN
 * Image Classification using Pre-Trained ImageNet Models
-* Transfor Learning and Fine-tuning
+* Transfer Learning and Fine-tuning
 * Semantic Segmentation
 * Object Detection
+
+----
+![certificate](https://github.com/user-attachments/assets/f9f731f1-3f33-4a15-ba47-bf30c62da15b)
